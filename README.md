@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sohinipattanayak/sohinipattanayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](/social/Videos.gif)
+
+#### 👋 I am Sohini and I work as an Associate Product Manager at [Entando](entando.com).
+
+### Summary 📝
