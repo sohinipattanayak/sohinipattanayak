@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![](/social/Videos.gif)
 
-#### 👋 I am Sohini and I work as an Associate Product Manager at [Entando](entando.com).
+#### 👋 I am Sohini and I work as a Developer Advocate at LittleHorse. I am also the founder of TrustyCore.
 
 ### Summary 📝
 
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 #### Focus on 🎧
 
+- AI/ML ✅
+- Transparency in AI ✅
 - #Composableapplications ✅
 - #MFE ✅
 - #kubernetes ✅
@@ -40,11 +42,12 @@ I have experience on teams at -
 
 - American Express
 - Dabble Lab
+- Entando
+- LittleHorse
+- TrustyCore
 - Amazon Alexa (Community Evangelist - ASI 3.0)
 - AWS (Community Builder 22')
-
-Current goals are to help developers, architects, and enterprises learn, adapt, streamline, and accelerate development through the use of modular architectures and composable applications.
-
+  
 ### Connect with me 👇🏼
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheSohini)
