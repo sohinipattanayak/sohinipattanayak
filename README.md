@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![](/social/Videos.gif)
 
-#### 👋 I am Sohini and I work as a Developer Advocate at (!LittleHorse)[https://littlehorse.dev/]. I am also the founder of (!TrustyCore)[https://www.trustycore.com/]. Passionate about AI/ML, community building, and making tech more transparent and accessible.
+#### 👋 I am Sohini and I work as a Developer Advocate at (LittleHorse)[https://littlehorse.dev/]. I am also the founder of (TrustyCore)[https://www.trustycore.com/]. Passionate about AI/ML, community building, and making tech more transparent and accessible.
 
 ### Summary 📝
 
