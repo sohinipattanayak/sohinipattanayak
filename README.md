@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ![](/social/Videos.gif)
 
-#### 👋 I am Sohini and I work as a Developer Advocate at LittleHorse. I am also the founder of TrustyCore.
+#### 👋 I am Sohini and I work as a Developer Advocate at !(LittleHorse)[https://littlehorse.dev/]. I am also the founder of !(TrustyCore)[https://www.trustycore.com/]. Passionate about AI/ML, community building, and making tech more transparent and accessible.
 
 ### Summary 📝
 
-- 👩🏼‍💻 Guitar-playing Developer
-- 🪄 Developer Advocate
-- 🕸️ Community Champion
+- 👩🏼‍💻 Guitar-playing Developer & 🪄 Developer Advocate
+- 🕸️ Community Champion & Multi-lingual woman in STEM
+- 🌱 Currently focusing on AI/ML, Kubernetes, Clean Architecture, and more.
 
 #### Focus on 🎧
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 Previously I have worked as a Developer and Developer Advocate with multiple open communities and projects.
 
-I have experience on teams at -
+### Professional Experience
 
 - American Express
 - Dabble Lab
@@ -54,3 +54,8 @@ I have experience on teams at -
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohinipattanayak/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohinipattanayak/)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sohinip)
+
+### GitHub Stats 📊
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohinipattanayak&show_icons=true)
+
