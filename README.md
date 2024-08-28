@@ -13,18 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](/social/Videos.gif)
-
-#### 👋 I am Sohini and I work as a Developer Advocate at ![LittleHorse](https://littlehorse.dev/). I am also the founder of ![TrustyCore](https://www.trustycore.com/). Passionate about AI/ML, community building, and making tech more transparent and accessible.
+#### 👋 I am Sohini and I work as a Solutions Engineer at Okta. I have been a Developer Advocate, Product Manager and a Software Engineer in the past. Very passionate about AI/ML, community building, and making tech more transparent and accessible.
 
 ### Summary 📝
 
-- 👩🏼‍💻 Guitar-playing Developer & 🪄 Developer Advocate
+- 👩🏼‍💻 Guitar-playing Developer & 🪄 Solutions Engineer
 - 🕸️ Community Champion & Multi-lingual woman in STEM
 - 🌱 Currently focusing on AI/ML, Kubernetes, Clean Architecture, and more.
 
 #### Focus on 🎧
 
+- Cybersecurity
+- Organisational Security
+- Worforce and Customer Identity Cloud
 - AI/ML ✅
 - Transparency in AI ✅
 - #Composableapplications ✅
@@ -40,6 +41,8 @@ Previously I have worked as a Developer and Developer Advocate with multiple ope
 
 ### Professional Experience
 
+- Okta
+- LittleHorse
 - American Express
 - Dabble Lab
 - Entando
